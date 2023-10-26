@@ -132,7 +132,7 @@ div[for='content'] img {
 div[for="content"] > div {
     position: absolute;
     bottom: 0;
-    background-image: linear-gradient(to bottom, transparent, black);
+    background-image: linear-gradient(to bottom, transparent, #0000007a)
     padding: 10px;
     color: #edebeb;
     text-align: center;
